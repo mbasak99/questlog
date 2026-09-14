@@ -32,3 +32,25 @@ XP earned:
 - TOTAL: 105
 - LEVEL: Apprentice 0 -> Apprentice 105
 NEXT: Start Sprint 1 tomorrow and learn all about Fastify for my backend.
+
+## 2026-09-14 (Sprint 1, Day 2)
+
+Start: read NEXT line, set a 20 min timer
+Did:
+- Added Fastify as backend server of choice, as well as TypeBox for route schemas. 
+- Created the app and server files.
+- Created health route.
+- Added the `vp run dev:api` task in backend API vite.config.ts file.
+- Installed `tsx` to watch and compile TS files.
+Stuck on:
+- Nothing.
+Learned:
+- How to add tasks for Vite config.
+- How to create routes and create the app factory for Fastify.
+XP earned:
+- Completed min session (10XP)
+- Completed Day 1 of Sprint 1 (20XP)
+- Committed what I've done for today (5XP)
+- TOTAL: 35 XP
+- LEVEL: Apprentice (105) -> Apprentice (140XP)
+NEXT: Work on implementing Sprint 1 Day 2's task, `/quests` routes for in-memory storage.
