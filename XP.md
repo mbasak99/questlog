@@ -14,10 +14,10 @@
 
 ### Loot
 
-| Loot     | Level Required |
-| -------- | -------------- |
-| JPG LMLP | 2 (Journeyman) |
-| _TODO_   |
+| Loot            | Level Required |
+| --------------- | -------------- |
+| JPG LMLP 200 mL | 2 (Journeyman) |
+| _TODO_          | _TODO_         |
 
 ### XP table
 
